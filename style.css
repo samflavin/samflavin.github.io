@@ -1,14 +1,15 @@
 .name{
-  font-family:Baskervillle;
-  text-align: left;
+  font-family:Baskerville;
+  text-align: right;
   color:rust;
-  
+  margin:0;
 }
 
 .contactInfo{
   font-family:Baskerville;
   text-align:right;
   color:rust;
+  margin:0;
 }
 
 
