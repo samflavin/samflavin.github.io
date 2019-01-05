@@ -1,3 +1,19 @@
+.name{
+  font-family:Baskervillle;
+  text-align: left;
+  color:rust;
+  
+}
+
+.contactInfo{
+  font-family:Baskerville;
+  text-align:right;
+  color:rust;
+}
+
+
+
+
 p{
-color: red;
+color: rust;
 }
