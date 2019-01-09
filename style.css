@@ -27,7 +27,13 @@ div{
 
 
 
-p{
-color: rust;
+
+
+.education{
+  font-family:Baskerville;
+
+    margin-top:auto;
+    margin-right:auto;
+    margin-bottom:auto;
+    margin-left:auto;
 }
-.education{font-family:Baskerville;}
