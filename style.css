@@ -5,6 +5,9 @@
   margin:0;
 }
 
+h4{margin-left:10px}
+h5{margin-left:20px}
+
 .contactInfo{
   font-family:Baskerville;
   text-align:right;
