@@ -12,6 +12,9 @@
   margin:0;
 }
 
+div{
+  border:1px solid red;}
+
 .skills{
   margin:0;
   font-family:Baskerville;
@@ -19,7 +22,7 @@
 .header{
   padding-top:20px}
 .education{
-  margin-bottom:10px}
+  margin-bottom:5px}
 
 
 
